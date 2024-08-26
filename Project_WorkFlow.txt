@@ -1,0 +1,74 @@
+MAJOR PROJECT - TEAM : 4
+
+E-TRADING SYSTEM
+
+* Console Application using CSharp
+* Template :
+  - Client Application: ASP.Net Web Application - MVC
+  - Services : ASP.Net Web Application - Web API
+ The MVC Client Application must consume the services from the WebAPI project.
+ 
+* Framework : Entity Framework(EF) DataBase First Approach
+* Backend using SQL (SQL Server Management Studio)
+
+
+ABSTRACT :
+
+E-Trading System (ETS) is a Web-based Application which enables both the customers and vendors to Login or Sign-up to the application, view the showcased products and purchase them.
+The Admin controls the entire application.
+
+
+
+EXECUTION FLOW :-
+
+The Application when executed must open to Home Page.
+Further must have 3 options to choose from : Admin, Customer, Vendor 
+
+1. If ADMIN is Chosen :
+   1. Redirects to Admin Page.
+   2. Admin is responsible for managing all Customers and Vendors.
+   3. Only Admin can add Vendors to the system after accepting the vendor's request to register.
+   4. The Admin can manage the categories of the hosted products by the Vendors.
+   5. Admin can also Add or Delete the users.
+
+2. If VENDOR is Chosen :
+   1. Register window for New Vendors.
+      Login window for already existing Vendors.
+   2. Redirects to Vendors Page once the login is successful.
+   3. Each individual Vendor has there own set of products to sell.
+   4. Must display the list of products for that particular vendor logged in.
+   5. Vendor should be able to Add or Delete his hosted products.
+   6. Vendor must have a Profile with his details and he should be able to View and Edit/Update his/her Profile.
+   7. Vendor can see the Customers list who are interested to buy his products.
+   8. Can Update the Prices of his products.
+
+-- The Price Alerts must be notified to the interested customer who has added that product in to his/her cart.
+
+3. If CUSTOMER is Chosen :
+   1. Register window for a New Customer.
+      Login window for existing customers.
+   2. Redirects to Customers Page once the login is successful.
+   3. Each Customer has an Account Credit Balance, which, a certain amount must be given while registering.
+   4. Must be able to View his/her Profile which contains all the customers details including his/her order history, Account balance etc.
+   5. Should be able to Edit his Profile.
+   6. A Search Bar, where the customer can search for products from various vendors and view them with all their details.
+   7. A Customer should be able to Add the products to his cart and Buy them.
+   8. Price alerts(if updated by the vendor) must be notified to the customer for his cart added products.
+
+ -- The Account Balance must keep updating as and when a customer buys any product.
+
+
+Project Flow :
+
+- Create Relevant DataBase with relevant tables and procedures for the above given scenario in the SQL Server Management Studio(SSMS)
+- In Visual Studio 2019, create an Console Application as :
+
+1. First Create an ASP.Net Web Application with MVC Template for the Client Application.
+2. Add Another project into this MVC Client Application project as ASP.Net Web Application - Web API Template for Services where all the backend APIs are written and from where the MVC Application will consume this WebAPI Services.
+3. Use Entity Framework DB first approach to import the all the Tables, Procedures, Views as Models to the project.
+4. Create Relevant Models and Write relevant Controllers, Action Methods and their respective Views (without Scaffolding or taking in built Template) for the above application.
+5. Implement Exceptional Handling as and where required using Try-Catch and giving relevant Error messages.
+6. Identity Providers - Authorization/Authentication for each login activity must be taken care of.(Admin, Vendor, Customer)
+7. Use relevant Scripts for the UI along with needed images, logos, product images.
+8. Test any 2-3 Unit Testing using Microsoft Test Framework for the project.
+
