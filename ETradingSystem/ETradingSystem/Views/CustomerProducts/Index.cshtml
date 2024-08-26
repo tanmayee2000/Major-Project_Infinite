@@ -1,0 +1,80 @@
+﻿@model IEnumerable<ETradingSystem.Models.Product>
+
+@{
+
+    ViewBag.Title = "Products";
+
+}
+
+<h2>Available Products</h2>
+
+<p>
+
+    <a href="@Url.Action("Index", "BucketList")" class="btn btn-warning">View Bucket List</a> <!-- Changed Controller to BucketList -->
+
+    <a href="@Url.Action("Profile", "Home")" class="btn btn-info">Profile</a>
+
+    <a href="@Url.Action("Wallet", "Home")" class="btn btn-success">Check Balance</a>
+
+
+
+</p>
+
+<br />
+
+@if (TempData["Message"] != null)
+
+{
+
+    <div class="alert alert-success">@TempData["Message"]</div>
+
+}
+
+<div class="row">
+
+    @foreach (var item in Model)
+
+    {
+
+        <div class="col-md-4">
+
+            <div class="card mb-4">
+
+                <img src="@Url.Action("GetImage", "Products", new { id = item.Product_Id })" alt="Product Image" class="card-img-top">
+
+                <div class="card-body">
+
+                    <h5 class="card-title font-weight-bold">@item.Product_Name</h5>
+
+                    <p class="card-text">Brand: @item.Brand</p>
+
+                    <p class="card-text">Color: @item.Color</p>
+
+                    <p class="card-text">Price: @item.Price:C</p> <!-- Displayed as currency -->
+
+                    <p class="card-text">Available Stock: @item.Available_Stock</p>
+
+                    <p class="card-text">Status: @item.Status</p>
+
+                </div>
+
+                <div class="card-footer">
+
+                    @Html.ActionLink("Details", "Details", new { id = item.Product_Id }, new { @class = "btn btn-primary" })
+
+                    @Html.ActionLink("Add to Cart", "AddToCart", "BucketList", new { productId = item.Product_Id }, new { @class = "btn btn-success" }) <!-- Changed Controller to BucketList and parameter to productId -->
+
+                    @Html.ActionLink("Buy Now", "BuyNow", "BucketList", new { productId = item.Product_Id }, new { @class = "btn btn-danger" }) <!-- Changed Controller to BucketList and parameter to productId -->
+
+                </div>
+
+            </div>
+
+        </div>
+
+    }
+
+</div>
+
+<br />
+

@@ -1,0 +1,92 @@
+﻿@model IEnumerable<ETradingSystem.Models.BucketList>
+
+@{
+
+    ViewBag.Title = "Bucket List";
+
+}
+
+<h2>Your Bucket List</h2>
+
+@if (Model.Any())
+
+{
+
+    <table class="table">
+
+        <thead>
+
+            <tr>
+
+                <th>Product Name</th>
+
+                <th>Price</th>
+
+                <th>Quantity</th>
+
+                <th>Total</th>
+
+                <th>Actions</th>
+
+            </tr>
+
+        </thead>
+
+        <tbody>
+
+            @foreach (var item in Model)
+
+            {
+
+                <tr>
+
+                    <td>@item.Product.Product_Name</td> <!-- Product name from the Product model -->
+
+                    <td>@item.Product.Price:C</td> <!-- Product price from the Product model -->
+
+                    <td>
+
+                        @using (Html.BeginForm("UpdateQuantity", "BucketList", FormMethod.Post))
+
+                        {
+
+                            @Html.Hidden("id", item.Serial_Number) <!-- Serial_Number from the BucketList model -->
+
+                            <input type="number" name="quantity" value="@item.Quantity" min="0" max="@item.Product.Available_Stock" class="form-control" style="width: 60px; display: inline;" />
+
+                            <input type="submit" value="Update" class="btn btn-primary" />
+
+                        }
+
+                    </td>
+
+                    <td>@(item.Product.Price * item.Quantity):C</td> <!-- Total cost calculation -->
+
+                    <td>
+
+                        <a href="@Url.Action("BuyNow", "BucketList", new { productId = item.Product_Id })" class="btn btn-success">Buy Now</a>
+
+                        <a href="@Url.Action("RemoveFromBucketList", "BucketList", new { id = item.Serial_Number })" class="btn btn-danger">Remove</a>
+
+                    </td>
+
+                </tr>
+
+            }
+
+        </tbody>
+
+    </table>
+
+    <h3>Total Cart Value: @ViewBag.TotalCartValue:C</h3>
+
+}
+
+else
+
+{
+
+    <p>Your bucket list is empty.</p>
+
+}
+

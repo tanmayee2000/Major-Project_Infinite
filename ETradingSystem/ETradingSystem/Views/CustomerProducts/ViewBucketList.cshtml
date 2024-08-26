@@ -1,0 +1,37 @@
+﻿@model IEnumerable<ETradingSystem.Models.BucketList>
+
+<h2>View Bucket List</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Product.Product_Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Product.Product_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.Serial_Number }) |
+                @Html.ActionLink("Details", "Details", new { id = item.Serial_Number }) |
+                @using (Html.BeginForm("RemoveFromBucketList", "YourControllerName", new { id = item.Serial_Number }, FormMethod.Post, new { }))
+                {
+                    @Html.AntiForgeryToken()
+                    <input type="submit" value="Delete" />
+                }
+            </td>
+        </tr>
+    }
+
+</table>

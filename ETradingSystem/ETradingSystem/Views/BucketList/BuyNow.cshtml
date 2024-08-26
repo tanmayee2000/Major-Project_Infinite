@@ -1,0 +1,22 @@
+﻿@{
+
+    ViewBag.Title = "Buy Now";
+
+}
+
+<h2>Buy Now</h2>
+
+@if (ViewBag.Message != null)
+
+{
+
+    <div class="alert alert-info">
+
+        @ViewBag.Message
+
+    </div>
+
+}
+
+<a href="@Url.Action("Index", "BucketList")" class="btn btn-primary">Back to Bucket List</a>
+

@@ -1,0 +1,48 @@
+﻿@model ETradingSystem.Models.Customer
+
+@{
+
+    ViewBag.Title = "Edit Profile";
+
+}
+
+<h2>Edit Profile</h2>
+
+@using (Html.BeginForm("EditProfile", "Home", FormMethod.Post))
+
+{
+
+    <div>
+
+        <label>Name:</label>
+
+        @Html.TextBoxFor(m => m.Customer_Name)
+
+    </div>
+
+    <div>
+
+        <label>Address:</label>
+
+        @Html.TextBoxFor(m => m.Address)
+
+    </div>
+
+    <div>
+
+        <label>Phone:</label>
+
+        @Html.TextBoxFor(m => m.Mobile_Number)
+
+    </div>
+
+    <div>
+
+        @Html.HiddenFor(m => m.Customer_Email)
+
+    </div>
+
+    <input type="submit" value="Save" />
+
+}
+

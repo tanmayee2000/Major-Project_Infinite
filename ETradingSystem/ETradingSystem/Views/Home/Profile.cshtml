@@ -1,0 +1,44 @@
+﻿@model ETradingSystem.Models.Customer
+
+@{
+
+    ViewBag.Title = "Profile";
+
+}
+
+<h2>Profile</h2>
+
+<div>
+
+    <label>Name:</label>
+
+    <span>@Model.Customer_Name</span>
+
+</div>
+
+<div>
+
+    <label>Email:</label>
+
+    <span>@Model.Customer_Email</span>
+
+</div>
+
+<div>
+
+    <label>Address:</label>
+
+    <span>@Model.Address</span>
+
+</div>
+
+<div>
+
+    <label>Phone:</label>
+
+    <span>@Model.Mobile_Number</span>
+
+</div>
+
+<a href="@Url.Action("EditProfile", "Home", new { id = Model.Customer_Id })">Edit Profile</a>
+

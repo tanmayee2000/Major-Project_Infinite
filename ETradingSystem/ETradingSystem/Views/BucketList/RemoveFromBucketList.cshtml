@@ -1,0 +1,22 @@
+﻿@model ETradingSystem.Models.BucketList
+
+@{
+
+    ViewBag.Title = "Remove Item";
+
+}
+
+<h2>Remove Item from Bucket List</h2>
+
+<p>Are you sure you want to remove the product "<strong>@Model.Product.Product_Name</strong>" from your bucket list?</p>
+
+@using (Html.BeginForm())
+
+{
+
+    <input type="submit" value="Remove" class="btn btn-danger" />
+
+    <a href="@Url.Action("Index", "BucketList")" class="btn btn-secondary">Cancel</a>
+
+}
+
