@@ -1,23 +1,24 @@
 
 Create Database E_TradingDB
 use E_TradingDB
-drop database E_TradingDB
- 
---Database
 
-----------------------This is the table for the Hint Questions--------
+
+
+---------------------- HINTS TABLE -----------------
 Create table Hints 
 (Hint_Id  int Primary Key Identity ,
 Questions NVarchar (100))
 
-INSERT INTO Hints (Questions) VALUES 
+Insert Into Hints (Questions) Values 
 ('What is your Favourite Sport?'),
 ('In what city were you born?'),
 ('What is the name of your first pet?'),
 ('What is your favorite movie?'),
 ('What street did you grow up on?');
+
 select * from Hints
-----------------------This is the table for the Admin-----------------
+
+---------------------- ADMIN TABLE ---------------------
 
 Create table [Admin] 
 (Admin_Id numeric(10) Primary key not null,
@@ -27,14 +28,15 @@ Admin_Name varchar(30) not null,
 Hint_Id int foreign key references Hints(Hint_Id),
 [Hint_Answers] varchar (200) not null)
 
-select * from Admin
+Insert Into Admin (Admin_Id, Admin_Email, Admin_Name, [Password], Hint_Id, Hint_Answers)
+Values (111, 'admin@gmail.com', 'Admin', 'adm#123', 1, 'Volleyball')
 
-INSERT INTO Admin (Admin_Id, Admin_Email, Admin_Name, [Password], Hint_Id, Hint_Answers)
-VALUES (1111, 'vikashv@infinite.com', 'Vikash', 'Vikash@123', 1, 'Volleyball');
+Select * from Admin
 
-----------------------This is the table for the Customer ----------------
+---------------------- CUSTOMER TABLE -----------------------
+
 Create Table Customer 
-([Customer_Id] numeric(10) Primary key,
+([Customer_Id] numeric(10) Primary key IDENTITY,
 [Customer_Name] varchar(30) not null,
 [Customer_Email] varchar(30) unique not null,
 Date_Of_Birth Date not null,
@@ -46,16 +48,18 @@ Mobile_Number numeric(10),
 [Hint_Answer] varchar(200) not null,
 [Status] varchar(20))
 
- INSERT INTO Customer (Customer_Id, Customer_Name, Customer_Email, Date_Of_Birth, Address, Balance, Mobile_Number, [Password], Hint_Id, Hint_Answer, [Status])
-VALUES 
-(1, 'John Doe', 'john@example.com', '1990-01-01', '123 Main St', 100.50, 1234567890, 'password123', 1, 'Hint answer 1', 'Active'),
-(2, 'Jane Smith', 'jane@example.com', '1985-05-15', '456 Oak Ave', 75.25, 9876543210, 'securepwd', 2, 'Hint answer 2', 'Active'),
-(3, 'Alice Johnson', 'alice@example.com', '1998-11-30', '789 Elm St', 0, 5554443333, 'p@ssw0rd', 3, 'Hint answer 3', 'Active'),
-(4, 'Bob Brown', 'bob@example.com', '1982-08-20', '321 Pine St', 50, 1112223333, '123456', 4, 'Hint answer 4', 'Inactive'),
-(5, 'Emily Davis', 'emily@example.com', '1995-03-10', '654 Cedar Ave', 25.75, 9998887777, 'qwerty', 5, 'Hint answer 5', 'Active');
+Insert Into Customer (Customer_Name, Customer_Email, Date_Of_Birth, Address, Balance, Mobile_Number, [Password], Hint_Id, Hint_Answer, [Status])
+Values 
+('Raghu Reddy', 'raghu@gmail.com', '2002-03-24', '#12,Kundanahalli', 10000.00, 9263547890, 'rrr#123',4, 'Hint answer 4', 'Active'),
+('Abhishek', 'abhi@gamil.com', '2000-09-30', '#004,Jubli hills', 5000.00, 9634258796, 'abhi@123', 5, 'Hint answer 5','Active'),
+('Raviteja', 'ravi@gamil.com', '2001-11-30', '#15B,Secunderabad', 1000.00, 9126534278, 'ravi@777', 5, 'Hint answer 5','Active')
+
 
 select * from Customer
-----------------------This is the table for the User_Wallet ----------------
+
+
+---------------------- WALLET TABLE --------------------
+
 Create Table Wallet (
 wallet_Id int primary key identity,
 [Customer_Id] numeric(10) foreign key references Customer(Customer_Id),
@@ -64,9 +68,10 @@ wallet_Id int primary key identity,
 [Total_Top_Up] float
 )
  
-----------------------This is the table for the Vendors ----------------
-Create Table Vendors 
-(Vendor_Id Numeric(10) Primary Key,
+---------------------- VENDORS TABLE --------------------
+
+Create Table Vendors (
+Vendor_Id Numeric(10) Primary Key IDENTITY,
 Vendor_Name varchar(20) not null,
 Vendor_Email varchar(30) unique not null,
 Mobile_Number Numeric(10) not null,
@@ -76,45 +81,16 @@ Vendor_Age int not null,
 [Passowrd] varchar(20) not null,
 [Hint_Id] int foreign key references Hints(Hint_Id),
 [Hint_Answer] nvarchar(50),
-[Status] varchar(20))
+[Status] varchar(20)
+)
 
- INSERT INTO Vendors (Vendor_Id, Vendor_Name, Vendor_Email, Mobile_Number, [Address], Category, Vendor_Age, [Passowrd], Hint_Id, Hint_Answer, [Status])
+ INSERT INTO Vendors (Vendor_Name, Vendor_Email, Mobile_Number, [Address], Category, Vendor_Age, [Passowrd], Hint_Id, Hint_Answer, [Status])
 VALUES 
-(1, 'Vendor1', 'vendor1@example.com', 1234567890, '123 Main St', 'Electronics', 35, 'password123', 1, 'Hint answer 1', 'Active'),
-(2, 'Vendor2', 'vendor2@example.com', 9876543210, '456 Oak Ave', 'Clothing', 28, 'securepwd', 2, 'Hint answer 2', 'Active'),
-(3, 'Vendor3', 'vendor3@example.com', 5554443333, '789 Elm St', 'Furniture', 42, 'p@ssw0rd', 3, 'Hint answer 3', 'Inactive'),
-(4, 'Vendor4', 'vendor4@example.com', 1112223333, '321 Pine St', 'Grocery', 30, '123456', 4, 'Hint answer 4', 'Active'),
-(5, 'Vendor5', 'vendor5@example.com', 9998887777, '654 Cedar Ave', 'Health & Beauty', 37, 'qwerty', 5, 'Hint answer 5', 'Active');
+('Vendor1', 'ven1@gmail.com', 9165482764, '#2nd street, Mysore', 'Shoes', 37, 'pwd#123', 1, 'Hint answer 1', 'Active'),
 
 select * from Vendors
 
-----------------------This is the table for the Orders ----------------
-CREATE TABLE Orders (
-    Purchase_Id INT PRIMARY KEY IDENTITY(1,1),
-    Customer_Id NUMERIC(10) FOREIGN KEY REFERENCES Customer(Customer_Id),
-    Delivery_Date DATE,
-    Order_Amount FLOAT,
-    Payment_Mode VARCHAR(20),
-    Address VARCHAR(50),
-    Status VARCHAR(30)
-);
-
- 
-
-----------------------This is the table for the Order Details ----------------
-CREATE TABLE Order_Details (
-    Order_Id INT PRIMARY KEY IDENTITY(1,1),
-    Purchase_Id INT FOREIGN KEY REFERENCES Orders(Purchase_Id),
-    Product_Name VARCHAR(30),
-    Product_Price FLOAT
-);
-ALTER TABLE Order_Details
-ADD Product_Id NUMERIC(10) FOREIGN KEY REFERENCES Products(Product_Id);
-ALTER TABLE Order_Details
-ADD Quantity INT;
-
-
-----------------------This is the table for the Products ----------------
+---------------------- PRODUCTS TABLE ---------------------
 
 Create Table Products
 (Product_Id numeric(10) primary key,
@@ -128,12 +104,11 @@ Available_Stock int,
 
 ALTER TABLE Products
 ADD ImageFileName varchar(100);
-alter table products add isdeleted varchar(20)
-select * from Products
 
+Select * from Products
 
+---------------------- BUCKET LIST (CART) TABLE ---------------------
 
-----------------------This is the Table for Bucket------------------
 CREATE TABLE BucketList(
     Serial_Number int IDENTITY,
     Product_Id numeric(10) NOT NULL,
@@ -142,11 +117,39 @@ CREATE TABLE BucketList(
     CONSTRAINT PK_BucketList PRIMARY KEY (Serial_Number),
     CONSTRAINT FK_BucketList_Products FOREIGN KEY (Product_Id) REFERENCES Products(Product_Id),
     CONSTRAINT FK_BucketList_Customer FOREIGN KEY (Customer_Id) REFERENCES Customer(Customer_Id)
-);
+)
 
+
+
+----------------------This is the table for the Orders ----------------
+
+CREATE TABLE Orders (
+    Purchase_Id INT PRIMARY KEY IDENTITY(1,1),
+    Customer_Id NUMERIC(10) FOREIGN KEY REFERENCES Customer(Customer_Id),
+    Delivery_Date DATE,
+    Order_Amount FLOAT,
+    Payment_Mode VARCHAR(20),
+    Address VARCHAR(50),
+    Status VARCHAR(30)
+)
+
+
+----------------------This is the table for the Order Details ----------------
+
+CREATE TABLE Order_Details (
+    Order_Id INT PRIMARY KEY IDENTITY(1,1),
+    Purchase_Id INT FOREIGN KEY REFERENCES Orders(Purchase_Id),
+    Product_Name VARCHAR(30),
+    Product_Price FLOAT
+);
+ALTER TABLE Order_Details
+ADD Product_Id NUMERIC(10) FOREIGN KEY REFERENCES Products(Product_Id);
+ALTER TABLE Order_Details
+ADD Quantity INT
 
   
 ----------------------This is the table for the Order_Cancellation----------------
+
 CREATE TABLE Order_Cancellation (
     Cancellation_Id INT PRIMARY KEY IDENTITY(1,1),
     Order_Id INT FOREIGN KEY REFERENCES Order_Details(Order_Id),
@@ -155,11 +158,9 @@ CREATE TABLE Order_Cancellation (
 );
 
  
+----------------------------------------------------------------------------------
+ 
 
- 
- 
- 
- 
 select * from Admin
 Select * from Customer
 select * from Vendors
@@ -172,7 +173,9 @@ select * from BucketList
 select * from Hints
 select * from Orders
 
-select * from Products where Vendor_Id = 1
+----------------------------------------------------------------------------------
+
+------ STORED PROCEDURES -------
 
 CREATE OR ALTER PROCEDURE GetProductsByVendorId
     @VendorId DECIMAL
