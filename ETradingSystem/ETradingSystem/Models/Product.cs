@@ -18,7 +18,6 @@ namespace ETradingSystem.Models
         public Product()
         {
             this.BucketLists = new HashSet<BucketList>();
-            this.Order_Details = new HashSet<Order_Details>();
         }
     
         public decimal Product_Id { get; set; }
@@ -30,12 +29,9 @@ namespace ETradingSystem.Models
         public Nullable<int> Available_Stock { get; set; }
         public string Status { get; set; }
         public string ImageFileName { get; set; }
-        public string isdeleted { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<BucketList> BucketLists { get; set; }
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Order_Details> Order_Details { get; set; }
         public virtual Vendor Vendor { get; set; }
     }
 }

@@ -102,7 +102,8 @@
                     <td>@Html.DisplayFor(modelItem => item.Hint.Questions)</td>
                     <td class="action-buttons">
                         @Html.ActionLink("Details", "Details", new { id = item.Vendor_Id }, new { @class = "btn btn-primary btn-sm" })
-                        @Html.ActionLink("Edit", "Edit", new { id = item.Vendor_Id }, new { @class = "btn btn-warning btn-sm" })
+                        @Html.ActionLink("Edit Category", "Edit", new { id = item.Vendor_Id }, new { @class = "btn btn-warning btn-sm" })
+
                         @if (item.Status == "Active")
                         {
                             @Html.ActionLink("Delete", "Delete", new { id = item.Vendor_Id }, new { @class = "btn btn-danger btn-sm" })

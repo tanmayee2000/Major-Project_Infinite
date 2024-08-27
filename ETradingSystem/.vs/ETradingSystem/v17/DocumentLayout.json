@@ -1,190 +1,194 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\E-Trading Project\\ETradingSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\controllers\\e_trading\\vendorfun\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\e_trading\\vendorfun\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|d:\\e-trading project\\etradingsystem\\etradingsystem\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|d:\\e-trading project\\etradingsystem\\etradingsystem\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\views\\customerproducts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\customerproducts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\views\\customerproducts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\customerproducts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|d:\\e-trading project\\etradingsystem\\etradingsystem\\views\\adminvalidation\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\adminvalidation\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|d:\\e-trading project\\etradingsystem\\etradingsystem\\views\\adminvendors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\adminvendors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\views\\adminvendors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\adminvendors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|d:\\e-trading project\\etradingsystem\\etradingsystem\\controllers\\e_trading\\customerfun\\balancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\e_trading\\customerfun\\balancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\controllers\\e_trading\\admin\\admincustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\e_trading\\admin\\admincustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\controllers\\e_trading\\admin\\adminvendorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\e_trading\\admin\\adminvendorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\controllers\\e_trading\\admin\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\e_trading\\admin\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\controllers\\e_trading\\admin\\adminvalidationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\e_trading\\admin\\adminvalidationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\controllers\\e_trading\\customerfun\\customerproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\e_trading\\customerfun\\customerproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\views\\home\\wallet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\home\\wallet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\views\\home\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\home\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\views\\customerproducts\\viewbucketlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\customerproducts\\viewbucketlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\views\\customerproducts\\customerbalance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\customerproducts\\customerbalance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\views\\customerproducts\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\customerproducts\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\views\\customerproducts\\buy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\customerproducts\\buy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\views\\bucketlist\\removefrombucketlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\bucketlist\\removefrombucketlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\views\\bucketlist\\buynow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\bucketlist\\buynow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\views\\bucketlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\bucketlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\views\\admincustomers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\admincustomers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\controllers\\e_trading\\vendorfun\\vendorvalidationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\e_trading\\vendorfun\\vendorvalidationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\controllers\\e_trading\\customerfun\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\e_trading\\customerfun\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\controllers\\e_trading\\customerfun\\customervalidationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\e_trading\\customerfun\\customervalidationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\controllers\\e_trading\\customerfun\\bucketlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\e_trading\\customerfun\\bucketlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\models\\bucketlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\models\\bucketlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\models\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\models\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\views\\customervalidation\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\customervalidation\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\customervalidation\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\controllers\\e_trading\\vendorfun\\vendorvalidationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\e_trading\\vendorfun\\vendorvalidationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\controllers\\e_trading\\customerfun\\customervalidationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\e_trading\\customerfun\\customervalidationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|c:\\users\\shivarajp\\downloads\\final\\etradingsystem\\etradingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\customerproducts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\customerproducts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\bucketlist\\buynow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\bucketlist\\buynow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\bucketlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\bucketlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\vendorvalidation\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\vendorvalidation\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\vendorvalidation\\vendorregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\vendorvalidation\\vendorregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\adminvalidation\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\adminvalidation\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\customervalidation\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\customervalidation\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\home\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\home\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\home\\help.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\home\\help.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\controllers\\e_trading\\vendorfun\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\e_trading\\vendorfun\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\controllers\\e_trading\\admin\\adminvendorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\e_trading\\admin\\adminvendorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\controllers\\e_trading\\admin\\admincustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\e_trading\\admin\\admincustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\controllers\\e_trading\\customerfun\\customerproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\e_trading\\customerfun\\customerproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\adminvendors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\adminvendors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\controllers\\e_trading\\admin\\adminvalidationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\e_trading\\admin\\adminvalidationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\controllers\\e_trading\\customerfun\\bucketlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\e_trading\\customerfun\\bucketlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\controllers\\e_trading\\admin\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\controllers\\e_trading\\admin\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\home\\wallet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\home\\wallet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\adminvendors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\adminvendors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\customerproducts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\customerproducts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\adminvendors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\adminvendors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\home\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\home\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\customerproducts\\viewbucketlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\customerproducts\\viewbucketlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\customerproducts\\customerbalance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\customerproducts\\customerbalance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\customerproducts\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\customerproducts\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\customerproducts\\buy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\customerproducts\\buy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\bucketlist\\removefrombucketlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\bucketlist\\removefrombucketlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\admincustomers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\admincustomers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\etradingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|D:\\E-Trading Project\\ETradingSystem\\etradingsystem\\views\\customervalidation\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24FDC4E0-736D-45A7-B72C-216AA0188B4E}|ETradingSystem\\ETradingSystem.csproj|solutionrelative:etradingsystem\\views\\customervalidation\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shivarajp\\Downloads\\Infinite_24-master\\Infinite_24-master\\New folder\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\Buy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
@@ -200,157 +204,145 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Vendor.cs",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Models\\Vendor.cs",
-              "RelativeDocumentMoniker": "ETradingSystem\\Models\\Vendor.cs",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Models\\Vendor.cs",
-              "RelativeToolTip": "ETradingSystem\\Models\\Vendor.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAA9wCQAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T12:16:28.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AdminCustomersController.cs",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\Admin\\AdminCustomersController.cs",
-              "RelativeDocumentMoniker": "ETradingSystem\\Controllers\\E_Trading\\Admin\\AdminCustomersController.cs",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\Admin\\AdminCustomersController.cs",
-              "RelativeToolTip": "ETradingSystem\\Controllers\\E_Trading\\Admin\\AdminCustomersController.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAcwEYAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T07:57:43.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\AdminVendors\\Index.cshtml",
-              "RelativeDocumentMoniker": "ETradingSystem\\Views\\AdminVendors\\Index.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\AdminVendors\\Index.cshtml",
-              "RelativeToolTip": "ETradingSystem\\Views\\AdminVendors\\Index.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAHMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-23T10:03:35.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\Details.cshtml",
-              "RelativeDocumentMoniker": "ETradingSystem\\Views\\CustomerProducts\\Details.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\Details.cshtml",
-              "RelativeToolTip": "ETradingSystem\\Views\\CustomerProducts\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-23T12:36:49.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\VendorFun\\ProductsController.cs",
-              "RelativeDocumentMoniker": "ETradingSystem\\Controllers\\E_Trading\\VendorFun\\ProductsController.cs",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\VendorFun\\ProductsController.cs",
-              "RelativeToolTip": "ETradingSystem\\Controllers\\E_Trading\\VendorFun\\ProductsController.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAAADUAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T07:59:06.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\Products\\Create.cshtml",
-              "RelativeDocumentMoniker": "ETradingSystem\\Views\\Products\\Create.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\Products\\Create.cshtml",
-              "RelativeToolTip": "ETradingSystem\\Views\\Products\\Create.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T11:59:24.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ETradingSystem\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ETradingSystem\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAKcAAAAAAAAAAAAAwLUAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T08:26:12.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "ETradingSystem\\Models\\Product.cs",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Models\\Product.cs",
-              "RelativeToolTip": "ETradingSystem\\Models\\Product.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAQwB8AAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T07:31:00.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Web.config",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Web.config",
-              "RelativeDocumentMoniker": "ETradingSystem\\Web.config",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Web.config",
-              "RelativeToolTip": "ETradingSystem\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-08-23T07:54:23.761Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\Index.cshtml",
               "RelativeDocumentMoniker": "ETradingSystem\\Views\\CustomerProducts\\Index.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\Index.cshtml",
               "RelativeToolTip": "ETradingSystem\\Views\\CustomerProducts\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEIAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-23T12:36:37.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\AdminVendors\\Details.cshtml",
-              "RelativeDocumentMoniker": "ETradingSystem\\Views\\AdminVendors\\Details.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\AdminVendors\\Details.cshtml",
-              "RelativeToolTip": "ETradingSystem\\Views\\AdminVendors\\Details.cshtml",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAAAF4AAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "ETradingSystem\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "ETradingSystem\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAIkAAADKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T11:48:00.833Z",
+              "WhenOpened": "2024-08-26T17:16:51.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerValidationController.cs",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\CustomerValidationController.cs",
+              "RelativeDocumentMoniker": "ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\CustomerValidationController.cs",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\CustomerValidationController.cs",
+              "RelativeToolTip": "ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\CustomerValidationController.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAADwv5gAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:58:46.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ETradingSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ETradingSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgBAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:26:12.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VendorValidationController.cs",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\VendorFun\\VendorValidationController.cs",
+              "RelativeDocumentMoniker": "ETradingSystem\\Controllers\\E_Trading\\VendorFun\\VendorValidationController.cs",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\VendorFun\\VendorValidationController.cs",
+              "RelativeToolTip": "ETradingSystem\\Controllers\\E_Trading\\VendorFun\\VendorValidationController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAADwv28AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:59:16.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\CustomerValidation\\Register.cshtml",
+              "RelativeDocumentMoniker": "ETradingSystem\\Views\\CustomerValidation\\Register.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\CustomerValidation\\Register.cshtml",
+              "RelativeToolTip": "ETradingSystem\\Views\\CustomerValidation\\Register.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T11:09:44.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ETradingSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ETradingSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAN4BAAAAAAAAAAAAAPcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T05:06:31.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\BucketList\\Index.cshtml",
+              "RelativeDocumentMoniker": "ETradingSystem\\Views\\BucketList\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\BucketList\\Index.cshtml",
+              "RelativeToolTip": "ETradingSystem\\Views\\BucketList\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T19:32:20.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "BuyNow.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\BucketList\\BuyNow.cshtml",
+              "RelativeDocumentMoniker": "ETradingSystem\\Views\\BucketList\\BuyNow.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\BucketList\\BuyNow.cshtml",
+              "RelativeToolTip": "ETradingSystem\\Views\\BucketList\\BuyNow.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T19:35:57.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\AdminValidation\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\VendorValidation\\Login.cshtml",
+              "RelativeDocumentMoniker": "ETradingSystem\\Views\\VendorValidation\\Login.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\VendorValidation\\Login.cshtml",
+              "RelativeToolTip": "ETradingSystem\\Views\\VendorValidation\\Login.cshtml",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAGEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T14:42:12.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\AdminValidation\\Login.cshtml",
               "RelativeDocumentMoniker": "ETradingSystem\\Views\\AdminValidation\\Login.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\AdminValidation\\Login.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\AdminValidation\\Login.cshtml",
               "RelativeToolTip": "ETradingSystem\\Views\\AdminValidation\\Login.cshtml",
               "ViewState": "AQIAAF0AAAAAAAAAAAAAAG4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -359,85 +351,265 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BalanceController.cs",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\BalanceController.cs",
-              "RelativeDocumentMoniker": "ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\BalanceController.cs",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\BalanceController.cs",
-              "RelativeToolTip": "ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\BalanceController.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T00:06:32.747Z",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\CustomerValidation\\Login.cshtml",
+              "RelativeDocumentMoniker": "ETradingSystem\\Views\\CustomerValidation\\Login.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\CustomerValidation\\Login.cshtml",
+              "RelativeToolTip": "ETradingSystem\\Views\\CustomerValidation\\Login.cshtml",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAIkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T11:12:52.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "ETradingSystem\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "ETradingSystem\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFcAAAAEAAAA",
+              "Title": "VendorRegister.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\VendorValidation\\VendorRegister.cshtml",
+              "RelativeDocumentMoniker": "ETradingSystem\\Views\\VendorValidation\\VendorRegister.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\VendorValidation\\VendorRegister.cshtml",
+              "RelativeToolTip": "ETradingSystem\\Views\\VendorValidation\\VendorRegister.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T09:52:23.007Z",
+              "WhenOpened": "2024-08-26T17:15:00.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\Admin\\DashboardController.cs",
-              "RelativeDocumentMoniker": "ETradingSystem\\Controllers\\E_Trading\\Admin\\DashboardController.cs",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\Admin\\DashboardController.cs",
-              "RelativeToolTip": "ETradingSystem\\Controllers\\E_Trading\\Admin\\DashboardController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T07:58:26.242Z"
+              "DocumentIndex": 13,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "ETradingSystem\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "ETradingSystem\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-08-26T19:40:56.865Z",
+              "EditorCaption": " [Diagram1]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "ETradingSystem\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "ETradingSystem\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAHwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T09:52:23.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ETradingSystem\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ETradingSystem\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAGIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T09:50:56.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Help.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Home\\Help.cshtml",
+              "RelativeDocumentMoniker": "ETradingSystem\\Views\\Home\\Help.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Home\\Help.cshtml",
+              "RelativeToolTip": "ETradingSystem\\Views\\Home\\Help.cshtml",
+              "ViewState": "AQIAALkAAAAAAAAAAAAAwMkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T02:46:39.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Home\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "ETradingSystem\\Views\\Home\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Home\\Welcome.cshtml",
+              "RelativeToolTip": "ETradingSystem\\Views\\Home\\Welcome.cshtml",
+              "ViewState": "AQIAADUAAAAAAAAAAAAhwEIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T02:47:15.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "AdminVendorsController.cs",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\Admin\\AdminVendorsController.cs",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\Admin\\AdminVendorsController.cs",
               "RelativeDocumentMoniker": "ETradingSystem\\Controllers\\E_Trading\\Admin\\AdminVendorsController.cs",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\Admin\\AdminVendorsController.cs",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\Admin\\AdminVendorsController.cs",
               "RelativeToolTip": "ETradingSystem\\Controllers\\E_Trading\\Admin\\AdminVendorsController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwBYAAAAJAAAA",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAuwA8AAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T07:58:16.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AdminValidationController.cs",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\Admin\\AdminValidationController.cs",
-              "RelativeDocumentMoniker": "ETradingSystem\\Controllers\\E_Trading\\Admin\\AdminValidationController.cs",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\Admin\\AdminValidationController.cs",
-              "RelativeToolTip": "ETradingSystem\\Controllers\\E_Trading\\Admin\\AdminValidationController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAwwCUAAAAJAAAA",
+              "DocumentIndex": 21,
+              "Title": "AdminCustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\Admin\\AdminCustomersController.cs",
+              "RelativeDocumentMoniker": "ETradingSystem\\Controllers\\E_Trading\\Admin\\AdminCustomersController.cs",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\Admin\\AdminCustomersController.cs",
+              "RelativeToolTip": "ETradingSystem\\Controllers\\E_Trading\\Admin\\AdminCustomersController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwBEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T07:58:06.989Z"
+              "WhenOpened": "2024-08-23T07:57:43.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ETradingSystem\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "ETradingSystem\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAHYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T15:29:05.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\VendorFun\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ETradingSystem\\Controllers\\E_Trading\\VendorFun\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\VendorFun\\ProductsController.cs",
+              "RelativeToolTip": "ETradingSystem\\Controllers\\E_Trading\\VendorFun\\ProductsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:59:06.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "CustomerProductsController.cs",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\CustomerProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\CustomerProductsController.cs",
               "RelativeDocumentMoniker": "ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\CustomerProductsController.cs",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\CustomerProductsController.cs",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\CustomerProductsController.cs",
               "RelativeToolTip": "ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\CustomerProductsController.cs",
-              "ViewState": "AQIAAJEAAAAAAAAAAAAcwAoAAAARAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBwAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T12:30:18.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "ETradingSystem\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "ETradingSystem\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T11:59:24.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ETradingSystem\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "ETradingSystem\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAJQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T15:18:13.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "ETradingSystem\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "ETradingSystem\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T15:23:50.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\AdminVendors\\Index.cshtml",
+              "RelativeDocumentMoniker": "ETradingSystem\\Views\\AdminVendors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\AdminVendors\\Index.cshtml",
+              "RelativeToolTip": "ETradingSystem\\Views\\AdminVendors\\Index.cshtml",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAHsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T10:03:35.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminValidationController.cs",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\Admin\\AdminValidationController.cs",
+              "RelativeDocumentMoniker": "ETradingSystem\\Controllers\\E_Trading\\Admin\\AdminValidationController.cs",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\Admin\\AdminValidationController.cs",
+              "RelativeToolTip": "ETradingSystem\\Controllers\\E_Trading\\Admin\\AdminValidationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:58:06.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "ETradingSystem\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "ETradingSystem\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:53:28.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BucketListController.cs",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\BucketListController.cs",
+              "RelativeDocumentMoniker": "ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\BucketListController.cs",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\BucketListController.cs",
+              "RelativeToolTip": "ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\BucketListController.cs",
+              "ViewState": "AQIAAOYAAAAAAAAAAAAuwBIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T11:34:56.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\Admin\\DashboardController.cs",
+              "RelativeDocumentMoniker": "ETradingSystem\\Controllers\\E_Trading\\Admin\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\Admin\\DashboardController.cs",
+              "RelativeToolTip": "ETradingSystem\\Controllers\\E_Trading\\Admin\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:58:26.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Home\\Search.cshtml",
+              "RelativeDocumentMoniker": "ETradingSystem\\Views\\Home\\Search.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Home\\Search.cshtml",
+              "RelativeToolTip": "ETradingSystem\\Views\\Home\\Search.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T05:04:24.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "Wallet.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\Home\\Wallet.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Home\\Wallet.cshtml",
               "RelativeDocumentMoniker": "ETradingSystem\\Views\\Home\\Wallet.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\Home\\Wallet.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Home\\Wallet.cshtml",
               "RelativeToolTip": "ETradingSystem\\Views\\Home\\Wallet.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -445,11 +617,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 33,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Home\\Profile.cshtml",
+              "RelativeDocumentMoniker": "ETradingSystem\\Views\\Home\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Home\\Profile.cshtml",
+              "RelativeToolTip": "ETradingSystem\\Views\\Home\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T04:59:16.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\AdminVendors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ETradingSystem\\Views\\AdminVendors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\AdminVendors\\Edit.cshtml",
+              "RelativeToolTip": "ETradingSystem\\Views\\AdminVendors\\Edit.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAIIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T16:19:55.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\Details.cshtml",
+              "RelativeDocumentMoniker": "ETradingSystem\\Views\\CustomerProducts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\Details.cshtml",
+              "RelativeToolTip": "ETradingSystem\\Views\\CustomerProducts\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T12:36:49.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Web.config",
+              "RelativeDocumentMoniker": "ETradingSystem\\Web.config",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Web.config",
+              "RelativeToolTip": "ETradingSystem\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-23T07:54:23.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\AdminVendors\\Details.cshtml",
+              "RelativeDocumentMoniker": "ETradingSystem\\Views\\AdminVendors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\AdminVendors\\Details.cshtml",
+              "RelativeToolTip": "ETradingSystem\\Views\\AdminVendors\\Details.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T11:48:00.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
               "Title": "EditProfile.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\Home\\EditProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Home\\EditProfile.cshtml",
               "RelativeDocumentMoniker": "ETradingSystem\\Views\\Home\\EditProfile.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\Home\\EditProfile.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Home\\EditProfile.cshtml",
               "RelativeToolTip": "ETradingSystem\\Views\\Home\\EditProfile.cshtml",
               "ViewState": "AQIAABcAAAAAAAAAAAAAADAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -457,47 +690,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Profile.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\Home\\Profile.cshtml",
-              "RelativeDocumentMoniker": "ETradingSystem\\Views\\Home\\Profile.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\Home\\Profile.cshtml",
-              "RelativeToolTip": "ETradingSystem\\Views\\Home\\Profile.cshtml",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAACwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T04:59:16.738Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ValuesController.cs",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\ValuesController.cs",
-              "RelativeDocumentMoniker": "ETradingSystem\\Controllers\\ValuesController.cs",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\ValuesController.cs",
-              "RelativeToolTip": "ETradingSystem\\Controllers\\ValuesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T09:53:28.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "ETradingSystem\\Views\\Products\\Index.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "ETradingSystem\\Views\\Products\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T09:50:56.264Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 40,
               "Title": "CustomerBalance.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\CustomerBalance.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\CustomerBalance.cshtml",
               "RelativeDocumentMoniker": "ETradingSystem\\Views\\CustomerProducts\\CustomerBalance.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\CustomerBalance.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\CustomerBalance.cshtml",
               "RelativeToolTip": "ETradingSystem\\Views\\CustomerProducts\\CustomerBalance.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -505,11 +702,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 41,
               "Title": "AddToCart.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\AddToCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\AddToCart.cshtml",
               "RelativeDocumentMoniker": "ETradingSystem\\Views\\CustomerProducts\\AddToCart.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\AddToCart.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\AddToCart.cshtml",
               "RelativeToolTip": "ETradingSystem\\Views\\CustomerProducts\\AddToCart.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -517,11 +714,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 42,
               "Title": "Buy.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\Buy.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\Buy.cshtml",
               "RelativeDocumentMoniker": "ETradingSystem\\Views\\CustomerProducts\\Buy.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\Buy.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\Buy.cshtml",
               "RelativeToolTip": "ETradingSystem\\Views\\CustomerProducts\\Buy.cshtml",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAC4AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -529,11 +726,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 39,
               "Title": "ViewBucketList.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\ViewBucketList.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\ViewBucketList.cshtml",
               "RelativeDocumentMoniker": "ETradingSystem\\Views\\CustomerProducts\\ViewBucketList.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\ViewBucketList.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\ViewBucketList.cshtml",
               "RelativeToolTip": "ETradingSystem\\Views\\CustomerProducts\\ViewBucketList.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -541,11 +738,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 43,
               "Title": "RemoveFromBucketList.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\BucketList\\RemoveFromBucketList.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\BucketList\\RemoveFromBucketList.cshtml",
               "RelativeDocumentMoniker": "ETradingSystem\\Views\\BucketList\\RemoveFromBucketList.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\BucketList\\RemoveFromBucketList.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\BucketList\\RemoveFromBucketList.cshtml",
               "RelativeToolTip": "ETradingSystem\\Views\\BucketList\\RemoveFromBucketList.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -553,35 +750,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "BuyNow.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\BucketList\\BuyNow.cshtml",
-              "RelativeDocumentMoniker": "ETradingSystem\\Views\\BucketList\\BuyNow.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\BucketList\\BuyNow.cshtml",
-              "RelativeToolTip": "ETradingSystem\\Views\\BucketList\\BuyNow.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-24T19:35:57.221Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\BucketList\\Index.cshtml",
-              "RelativeDocumentMoniker": "ETradingSystem\\Views\\BucketList\\Index.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\BucketList\\Index.cshtml",
-              "RelativeToolTip": "ETradingSystem\\Views\\BucketList\\Index.cshtml",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAAAFwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-24T19:32:20.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 44,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\AdminCustomers\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\AdminCustomers\\Delete.cshtml",
               "RelativeDocumentMoniker": "ETradingSystem\\Views\\AdminCustomers\\Delete.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\AdminCustomers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\AdminCustomers\\Delete.cshtml",
               "RelativeToolTip": "ETradingSystem\\Views\\AdminCustomers\\Delete.cshtml",
               "ViewState": "AQIAAFIAAAAAAAAAAAAAAGIAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -589,95 +762,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "VendorValidationController.cs",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\VendorFun\\VendorValidationController.cs",
-              "RelativeDocumentMoniker": "ETradingSystem\\Controllers\\E_Trading\\VendorFun\\VendorValidationController.cs",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\VendorFun\\VendorValidationController.cs",
-              "RelativeToolTip": "ETradingSystem\\Controllers\\E_Trading\\VendorFun\\VendorValidationController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCUAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T07:59:16.071Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\OrderController.cs",
-              "RelativeDocumentMoniker": "ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\OrderController.cs",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\OrderController.cs",
-              "RelativeToolTip": "ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\OrderController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T07:58:55.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "CustomerValidationController.cs",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\CustomerValidationController.cs",
-              "RelativeDocumentMoniker": "ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\CustomerValidationController.cs",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\CustomerValidationController.cs",
-              "RelativeToolTip": "ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\CustomerValidationController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T07:58:46.784Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "BucketListController.cs",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\BucketListController.cs",
-              "RelativeDocumentMoniker": "ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\BucketListController.cs",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\BucketListController.cs",
-              "RelativeToolTip": "ETradingSystem\\Controllers\\E_Trading\\CustomerFun\\BucketListController.cs",
-              "ViewState": "AQIAAN4AAAAAAAAAAAAiwPYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T11:34:56.378Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "BucketList.cs",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Models\\BucketList.cs",
-              "RelativeDocumentMoniker": "ETradingSystem\\Models\\BucketList.cs",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Models\\BucketList.cs",
-              "RelativeToolTip": "ETradingSystem\\Models\\BucketList.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T18:51:18.053Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ETradingSystem\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ETradingSystem\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T05:06:31.532Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Search.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\Home\\Search.cshtml",
-              "RelativeDocumentMoniker": "ETradingSystem\\Views\\Home\\Search.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\Home\\Search.cshtml",
-              "RelativeToolTip": "ETradingSystem\\Views\\Home\\Search.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T05:04:24.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 45,
               "Title": "RouteConfig.cs",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\App_Start\\RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "ETradingSystem\\App_Start\\RouteConfig.cs",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "ETradingSystem\\App_Start\\RouteConfig.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -685,69 +774,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "ETradingSystem\\Models\\Customer.cs",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Models\\Customer.cs",
-              "RelativeToolTip": "ETradingSystem\\Models\\Customer.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAcwC0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T23:00:07.787Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Wallet.cs",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Models\\Wallet.cs",
-              "RelativeDocumentMoniker": "ETradingSystem\\Models\\Wallet.cs",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Models\\Wallet.cs",
-              "RelativeToolTip": "ETradingSystem\\Models\\Wallet.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T23:36:46.133Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\CustomerValidation\\Register.cshtml",
-              "RelativeDocumentMoniker": "ETradingSystem\\Views\\CustomerValidation\\Register.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\CustomerValidation\\Register.cshtml",
-              "RelativeToolTip": "ETradingSystem\\Views\\CustomerValidation\\Register.cshtml",
-              "ViewState": "AQIAADQAAAAAAAAAAAAhwEMAAAB0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-23T11:09:44.298Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Models\\Model1.edmx",
-              "RelativeDocumentMoniker": "ETradingSystem\\Models\\Model1.edmx",
-              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Major Project\\Major Project\\ETradingSystem\\ETradingSystem\\Models\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-08-24T11:20:31.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Model1.Context.cs",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Models\\Model1.Context.cs",
-              "RelativeDocumentMoniker": "ETradingSystem\\Models\\Model1.Context.cs",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Models\\Model1.Context.cs",
-              "RelativeToolTip": "ETradingSystem\\Models\\Model1.Context.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T23:15:14.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ETradingSystem\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Final\\ETradingSystem\\ETradingSystem\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ETradingSystem\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAABsAAAAAAAAAAAAAAC4AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -755,35 +786,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "Buy.cshtml",
               "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Infinite_24-master\\Infinite_24-master\\New folder\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\Buy.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\Infinite_24-master\\Infinite_24-master\\New folder\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\Buy.cshtml",
               "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Infinite_24-master\\Infinite_24-master\\New folder\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\Buy.cshtml",
+              "RelativeToolTip": "..\\..\\Infinite_24-master\\Infinite_24-master\\New folder\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\Buy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-23T12:36:57.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "AddToCart.cshtml",
               "DocumentMoniker": "C:\\Users\\shivarajp\\Downloads\\Infinite_24-master\\Infinite_24-master\\New folder\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\AddToCart.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\Infinite_24-master\\Infinite_24-master\\New folder\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\AddToCart.cshtml",
               "ToolTip": "C:\\Users\\shivarajp\\Downloads\\Infinite_24-master\\Infinite_24-master\\New folder\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\AddToCart.cshtml",
+              "RelativeToolTip": "..\\..\\Infinite_24-master\\Infinite_24-master\\New folder\\ETradingSystem\\ETradingSystem\\Views\\CustomerProducts\\AddToCart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-23T12:37:09.848Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\CustomerValidation\\Login.cshtml",
-              "RelativeDocumentMoniker": "ETradingSystem\\Views\\CustomerValidation\\Login.cshtml",
-              "ToolTip": "D:\\E-Trading Project\\ETradingSystem\\ETradingSystem\\Views\\CustomerValidation\\Login.cshtml",
-              "RelativeToolTip": "ETradingSystem\\Views\\CustomerValidation\\Login.cshtml",
-              "ViewState": "AQIAAGMAAAAAAAAAAAAAAHEAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-23T11:12:52.14Z"
             }
           ]
         }

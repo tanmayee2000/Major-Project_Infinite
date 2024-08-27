@@ -42,7 +42,7 @@
 
                     <td>@item.Product.Product_Name</td> <!-- Product name from the Product model -->
 
-                    <td>@item.Product.Price:C</td> <!-- Product price from the Product model -->
+                    <td>@item.Product.Price</td> <!-- Product price from the Product model -->
 
                     <td>
 
@@ -60,7 +60,7 @@
 
                     </td>
 
-                    <td>@(item.Product.Price * item.Quantity):C</td> <!-- Total cost calculation -->
+                    <td>@(item.Product.Price * item.Quantity)</td> <!-- Total cost calculation -->
 
                     <td>
 
@@ -78,7 +78,6 @@
 
     </table>
 
-    <h3>Total Cart Value: @ViewBag.TotalCartValue:C</h3>
 
 }
 
@@ -87,6 +86,6 @@ else
 {
 
     <p>Your bucket list is empty.</p>
-
+    @Html.ActionLink("Back","Index", "CustomerProducts")
 }
 

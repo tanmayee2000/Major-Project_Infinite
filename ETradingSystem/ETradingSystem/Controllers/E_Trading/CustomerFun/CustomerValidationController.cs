@@ -18,13 +18,13 @@ namespace ETradingSystem.Controllers.E_Trading.CustomerFun
 
     {
 
-        private readonly E_TradingDBEntities5 db;
+        private readonly E_TradingDBEntities7 db;
 
         public CustomerValidationController()
 
         {
 
-            db = new E_TradingDBEntities5();
+            db = new E_TradingDBEntities7();
 
         }
 
@@ -44,47 +44,83 @@ namespace ETradingSystem.Controllers.E_Trading.CustomerFun
 
         public ActionResult Login(string email, string password)
 
+{
+
+    // Retrieve the customer based on email and password
+
+    var customer = GetCustomerByEmailAndPassword(email, password);
+ 
+    if (customer != null)
+
+    {
+
+        // Check if the customer's account is active
+
+        if (customer.Status == "Active")
+
         {
 
-            if (IsValidCustomer(email, password))
+            // Store customer email in session
+
+            Session["CustomerEmail"] = email;
+ 
+            // Set authentication cookie
+
+            FormsAuthentication.SetAuthCookie(email, false); // false indicates that the cookie is not persistent
+ 
+            // Check if there's a return URL stored in TempData
+
+            var returnUrl = TempData["ReturnUrl"] as string;
+ 
+            if (!string.IsNullOrEmpty(returnUrl))
 
             {
 
-                // Store customer email in session
-
-                Session["CustomerEmail"] = email;
-
-                // Set authentication cookie
-
-                FormsAuthentication.SetAuthCookie(email, false); // false indicates that the cookie is not persistent
-
-                // Check if there's a return URL stored in TempData
-
-                var returnUrl = TempData["ReturnUrl"] as string;
-
-                if (!string.IsNullOrEmpty(returnUrl))
-
-                {
-
-                    return Redirect(returnUrl);
-
-                }
-
-                return RedirectToAction("Index", "CustomerProducts");
+                return Redirect(returnUrl);
 
             }
-
-            else
-
-            {
-
-                ViewBag.InvalidLogin = "Invalid Customer Email or password.";
-
-                return View();
-
-            }
+ 
+            return RedirectToAction("Index", "CustomerProducts");
 
         }
+
+        else
+
+        {
+
+            // Account is deactivated, show an appropriate message
+
+            ViewBag.InvalidLogin = "Your account has been deactivated. Please contact the admin.";
+
+            return View();
+
+        }
+
+    }
+
+    else
+
+    {
+
+        ViewBag.InvalidLogin = "Invalid Customer Email or Password.";
+
+        return View();
+
+    }
+
+}
+ 
+// Helper method to retrieve customer based on email and password
+
+private Customer GetCustomerByEmailAndPassword(string email, string password)
+
+{
+
+    return db.Customers.FirstOrDefault(c => c.Customer_Email == email && c.Password == password);
+
+}
+
+ 
 
         // GET: Customer/Register
 

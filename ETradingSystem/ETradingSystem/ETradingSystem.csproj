@@ -283,11 +283,9 @@
     <Compile Include="Controllers\E_Trading\Admin\AdminValidationController.cs" />
     <Compile Include="Controllers\E_Trading\Admin\AdminVendorsController.cs" />
     <Compile Include="Controllers\E_Trading\Admin\DashboardController.cs" />
-    <Compile Include="Controllers\E_Trading\CustomerFun\BalanceController.cs" />
     <Compile Include="Controllers\E_Trading\CustomerFun\BucketListController.cs" />
     <Compile Include="Controllers\E_Trading\CustomerFun\CustomerProductsController.cs" />
     <Compile Include="Controllers\E_Trading\CustomerFun\CustomerValidationController.cs" />
-    <Compile Include="Controllers\E_Trading\CustomerFun\OrderController.cs" />
     <Compile Include="Controllers\E_Trading\VendorFun\ProductsController.cs" />
     <Compile Include="Controllers\E_Trading\VendorFun\VendorValidationController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -302,9 +300,6 @@
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\Customer.cs">
-      <DependentUpon>Model1.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\GetProductsByVendorId_Result.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\Hint.cs">
@@ -325,22 +320,10 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Model1.edmx</DependentUpon>
     </Compile>
-    <Compile Include="Models\Order.cs">
-      <DependentUpon>Model1.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\Order_Cancellation.cs">
-      <DependentUpon>Model1.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\Order_Details.cs">
-      <DependentUpon>Model1.tt</DependentUpon>
-    </Compile>
     <Compile Include="Models\Product.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\Vendor.cs">
-      <DependentUpon>Model1.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\Wallet.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -354,19 +337,50 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="Images\Adidas.jpg" />
     <Content Include="Images\admin.jpg" />
+    <Content Include="Images\adminlog.jpg" />
+    <Content Include="Images\Allen.jpg" />
+    <Content Include="Images\apple.png" />
+    <Content Include="Images\ayesha.png" />
+    <Content Include="Images\back 1.jpg" />
+    <Content Include="Images\back.jpg" />
     <Content Include="Images\Banner_Ecart1.jpg" />
+    <Content Include="Images\Casio.jpg" />
+    <Content Include="Images\cuslogin.jpg" />
+    <Content Include="Images\cusreg.png" />
+    <Content Include="Images\cust_register.jpg" />
+    <Content Include="Images\dell.jpg" />
+    <Content Include="Images\fastrack.jpg" />
+    <Content Include="Images\Gucci.jpg" />
+    <Content Include="Images\hlogin.jpg" />
+    <Content Include="Images\hp.png" />
     <Content Include="Images\login.jpg" />
     <Content Include="Images\logo.jpg" />
     <Content Include="Images\logo.png" />
     <Content Include="Images\LOGO_EKart1.jpg" />
+    <Content Include="Images\lomte.jpg" />
     <Content Include="Images\mainvid.mp4" />
     <Content Include="Images\Media %281%29.jpg" />
     <Content Include="Images\Media %282%29.jpg" />
     <Content Include="Images\Media %283%29.jpg" />
+    <Content Include="Images\Media %284%29.jpg" />
     <Content Include="Images\Media.jpg" />
     <Content Include="Images\NetPlay Gray Shirt.jpg" />
+    <Content Include="Images\netplay.jpg" />
     <Content Include="Images\Nike Sports Shoe.jpg" />
+    <Content Include="Images\nike.jpg" />
+    <Content Include="Images\polo.jpg" />
+    <Content Include="Images\raghu.jpg" />
+    <Content Include="Images\ravi.jpg" />
+    <Content Include="Images\road.jpg" />
+    <Content Include="Images\rolex.jpg" />
+    <Content Include="Images\shiv.jpg" />
+    <Content Include="Images\Sketchers.jpg" />
+    <Content Include="Images\tan.jpg" />
+    <Content Include="Images\Titan.jpg" />
+    <Content Include="Images\toshiba.png" />
+    <Content Include="Images\venlogin.jpg" />
     <Content Include="Images\welcome.mp4" />
     <Content Include="Images\WildCraft Bagpack Blue.jpg" />
     <Content Include="Models\Model1.Context.tt">
@@ -451,7 +465,6 @@
     <Content Include="Views\AdminVendors\Index.cshtml" />
     <Content Include="Views\AdminCustomers\Delete.cshtml" />
     <Content Include="Views\Home\Search.cshtml" />
-    <Content Include="Views\Order\ProductDetailsPage.cshtml" />
     <Content Include="Views\Home\OrderBookedSuccessfully.cshtml" />
     <Content Include="Views\Home\OrderConfirmation.cshtml" />
     <Content Include="Views\CustomerValidation\Register.cshtml" />
@@ -467,11 +480,11 @@
     <Content Include="Views\Home\Profile.cshtml" />
     <Content Include="Views\Home\EditProfile.cshtml" />
     <Content Include="Views\Home\Wallet.cshtml" />
+    <Content Include="Views\AdminVendors\Edit.cshtml" />
+    <Content Include="Views\VendorValidation\VendorRegister.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\Balance\" />
-    <Folder Include="Views\Orders\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />

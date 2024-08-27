@@ -10,13 +10,13 @@ public class BucketListController : Controller
 
 {
 
-    private readonly E_TradingDBEntities5 db;
+    private readonly E_TradingDBEntities7 db;
 
     public BucketListController()
 
     {
 
-        db = new E_TradingDBEntities5();
+        db = new E_TradingDBEntities7();
 
     }
 
@@ -69,54 +69,52 @@ public class BucketListController : Controller
     // GET: AddToCart
 
     public ActionResult AddToCart(int productId)
-
     {
-
         if (Session["CustomerEmail"] == null)
-
         {
-
             return RedirectToAction("Login", "CustomerValidation");
-
         }
 
         string customerEmail = Session["CustomerEmail"].ToString();
-
         var customer = db.Customers.FirstOrDefault(c => c.Customer_Email == customerEmail);
 
         if (customer != null)
-
         {
-
             var product = db.Products.Find(productId);
 
             if (product != null)
-
             {
+                var existingItem = db.BucketLists
+                    .FirstOrDefault(b => b.Customer_Id == customer.Customer_Id && b.Product_Id == product.Product_Id);
 
-                var bucketListItem = new BucketList
-
+                if (existingItem != null)
                 {
-
-                    Customer_Id = customer.Customer_Id,
-
-                    Product_Id = product.Product_Id
-
-                };
-
-                db.BucketLists.Add(bucketListItem);
+                    // Increment quantity if item already exists in the bucket list
+                    existingItem.Quantity++;
+                }
+                else
+                {
+                    // Add a new item with quantity 1
+                    var bucketListItem = new BucketList
+                    {
+                        Customer_Id = customer.Customer_Id,
+                        Product_Id = product.Product_Id,
+                        Quantity = 1 // Assuming you have a Quantity property
+                    };
+                    db.BucketLists.Add(bucketListItem);
+                }
 
                 db.SaveChanges();
 
                 return RedirectToAction("Index");
-
             }
-
         }
 
         return RedirectToAction("Index");
-
     }
+
+
+
 
     // POST: UpdateQuantity
     [HttpPost]

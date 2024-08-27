@@ -91,7 +91,7 @@ namespace ETradingSystem.Controllers
 
             List<Product> products = new List<Product>();
 
-            string connectionString = "Server=ICS-LT-7X2B693\\SQLEXPRESS;Database=E_TradingDB;user id=sa;password=Sky@9531";
+            string connectionString = "Server=ICS-LT-5S26573;Database=E_TradingDB;user id=sa;password=Infinite@552";
 
             string query = "SELECT * FROM Products WHERE Product_Name LIKE '%' + @SearchTerm + '%'";
 
@@ -167,7 +167,7 @@ namespace ETradingSystem.Controllers
 
             Customer customer = null;
 
-            string connectionString = "Server=ICS-LT-7X2B693\\SQLEXPRESS;Database=E_TradingDB;user id=sa;password=Sky@9531";
+            string connectionString = "Server=ICS-LT-5S26573;Database=E_TradingDB;user id=sa;password=Infinite@552";
 
             string query = "SELECT * FROM Customer WHERE Customer_Email = @Email";
 
@@ -209,10 +209,6 @@ namespace ETradingSystem.Controllers
 
                             Password = reader.GetString(7),
 
-                            Hint_Id = reader.IsDBNull(8) ? (int?)null : reader.GetInt32(8),
-
-                            Hint_Answer = reader.GetString(9),
-
                             Status = reader.GetString(10)
 
                         };
@@ -238,7 +234,7 @@ namespace ETradingSystem.Controllers
             string customerEmail = Session["CustomerEmail"].ToString();
             Customer customer = null;
 
-            string connectionString = "Server=ICS-LT-7X2B693\\SQLEXPRESS;Database=E_TradingDB;user id=sa;password=Sky@9531";
+            string connectionString = "Server=ICS-LT-5S26573;Database=E_TradingDB;user id=sa;password=Infinite@552";
             string query = "SELECT * FROM Customer WHERE Customer_Email = @Email";
 
             using (SqlConnection connection = new SqlConnection(connectionString))
@@ -281,7 +277,7 @@ namespace ETradingSystem.Controllers
                 return RedirectToAction("Login", "CustomerValidation");
             }
 
-            string connectionString = "Server=ICS-LT-7X2B693\\SQLEXPRESS;Database=E_TradingDB;user id=sa;password=Sky@9531";
+            string connectionString = "Server=ICS-LT-5S26573;Database=E_TradingDB;user id=sa;password=Infinite@552";
             string query = "UPDATE Customer SET Customer_Name = @Name, Address = @Address, Mobile_Number = @Phone WHERE Customer_Email = @Email";
 
             using (SqlConnection connection = new SqlConnection(connectionString))
@@ -316,7 +312,7 @@ namespace ETradingSystem.Controllers
 
             double balance = 0;
 
-            string connectionString = "Server=ICS-LT-7X2B693\\SQLEXPRESS;Database=E_TradingDB;user id=sa;password=Sky@9531";
+            string connectionString = "Server=ICS-LT-5S26573;Database=E_TradingDB;user id=sa;password=Infinite@552";
 
             string query = "SELECT Balance FROM Customer WHERE Customer_Email = @Email";
 

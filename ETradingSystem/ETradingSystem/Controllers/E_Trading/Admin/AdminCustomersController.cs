@@ -12,10 +12,10 @@ namespace ETradingSystem.Controllers.E_Trading.Admin
 {
     public class AdminCustomersController : Controller
     {
-        private readonly E_TradingDBEntities5 db;
+        private readonly E_TradingDBEntities7 db;
         public AdminCustomersController()
         {
-            db = new E_TradingDBEntities5();
+            db = new E_TradingDBEntities7();
         }
 
         public ActionResult Index()
@@ -29,7 +29,7 @@ namespace ETradingSystem.Controllers.E_Trading.Admin
 
             return View("Index", vendors);
         }
-        public ActionResult Details(decimal id)
+        public ActionResult Details(decimal? id)
         {
             if (id == null)
             {
@@ -43,7 +43,7 @@ namespace ETradingSystem.Controllers.E_Trading.Admin
             return View(customer);
         }
 
-        public ActionResult Delete(decimal id)
+        public ActionResult Delete(decimal? id)
         {
             if (id == null)
             {

@@ -40,7 +40,8 @@
 
             <div class="card mb-4">
 
-                <img src="@Url.Action("GetImage", "Products", new { id = item.Product_Id })" alt="Product Image" class="card-img-top">
+                <img src="@Url.Content("../../Images/" + item.ImageFileName)" alt="@item.Product_Name" class="product-image" width="100" height="100" />
+
 
                 <div class="card-body">
 
@@ -50,7 +51,7 @@
 
                     <p class="card-text">Color: @item.Color</p>
 
-                    <p class="card-text">Price: @item.Price:C</p> <!-- Displayed as currency -->
+                    <p class="card-text">Price: @item.Price</p> <!-- Displayed as currency -->
 
                     <p class="card-text">Available Stock: @item.Available_Stock</p>
 
@@ -64,7 +65,7 @@
 
                     @Html.ActionLink("Add to Cart", "AddToCart", "BucketList", new { productId = item.Product_Id }, new { @class = "btn btn-success" }) <!-- Changed Controller to BucketList and parameter to productId -->
 
-                    @Html.ActionLink("Buy Now", "BuyNow", "BucketList", new { productId = item.Product_Id }, new { @class = "btn btn-danger" }) <!-- Changed Controller to BucketList and parameter to productId -->
+                    @Html.ActionLink("Buy Now", "AddToCart", "BucketList", new { productId = item.Product_Id }, new { @class = "btn btn-danger" }) <!-- Changed Controller to BucketList and parameter to productId -->
 
                 </div>
 

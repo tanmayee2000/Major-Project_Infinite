@@ -26,7 +26,7 @@ namespace ETradingSystem.Controllers.E_Trading.VendorFun
 
     {
 
-        private E_TradingDBEntities5 db = new E_TradingDBEntities5();
+        private E_TradingDBEntities7 db = new E_TradingDBEntities7();
 
         public ActionResult Index(decimal? id)
 

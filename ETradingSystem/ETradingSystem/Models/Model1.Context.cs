@@ -12,13 +12,11 @@ namespace ETradingSystem.Models
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
-    using System.Data.Entity.Core.Objects;
-    using System.Linq;
     
-    public partial class E_TradingDBEntities5 : DbContext
+    public partial class E_TradingDBEntities7 : DbContext
     {
-        public E_TradingDBEntities5()
-            : base("name=E_TradingDBEntities5")
+        public E_TradingDBEntities7()
+            : base("name=E_TradingDBEntities7")
         {
         }
     
@@ -31,88 +29,7 @@ namespace ETradingSystem.Models
         public virtual DbSet<BucketList> BucketLists { get; set; }
         public virtual DbSet<Customer> Customers { get; set; }
         public virtual DbSet<Hint> Hints { get; set; }
-        public virtual DbSet<Order_Cancellation> Order_Cancellation { get; set; }
-        public virtual DbSet<Order_Details> Order_Details { get; set; }
-        public virtual DbSet<Order> Orders { get; set; }
         public virtual DbSet<Product> Products { get; set; }
         public virtual DbSet<Vendor> Vendors { get; set; }
-        public virtual DbSet<Wallet> Wallets { get; set; }
-    
-        public virtual int CancelOrder(Nullable<int> order_Id, Nullable<System.DateTime> cancellation_Date, Nullable<decimal> refund_Amount)
-        {
-            var order_IdParameter = order_Id.HasValue ?
-                new ObjectParameter("Order_Id", order_Id) :
-                new ObjectParameter("Order_Id", typeof(int));
-    
-            var cancellation_DateParameter = cancellation_Date.HasValue ?
-                new ObjectParameter("Cancellation_Date", cancellation_Date) :
-                new ObjectParameter("Cancellation_Date", typeof(System.DateTime));
-    
-            var refund_AmountParameter = refund_Amount.HasValue ?
-                new ObjectParameter("Refund_Amount", refund_Amount) :
-                new ObjectParameter("Refund_Amount", typeof(decimal));
-    
-            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("CancelOrder", order_IdParameter, cancellation_DateParameter, refund_AmountParameter);
-        }
-    
-        public virtual ObjectResult<Nullable<decimal>> GetCustomerIdByEmail(string email)
-        {
-            var emailParameter = email != null ?
-                new ObjectParameter("Email", email) :
-                new ObjectParameter("Email", typeof(string));
-    
-            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<Nullable<decimal>>("GetCustomerIdByEmail", emailParameter);
-        }
-    
-        public virtual ObjectResult<GetProductsByVendorId_Result> GetProductsByVendorId(Nullable<decimal> vendorId)
-        {
-            var vendorIdParameter = vendorId.HasValue ?
-                new ObjectParameter("VendorId", vendorId) :
-                new ObjectParameter("VendorId", typeof(decimal));
-    
-            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<GetProductsByVendorId_Result>("GetProductsByVendorId", vendorIdParameter);
-        }
-    
-        public virtual int InsertIntoBucketList(Nullable<decimal> product_Id, Nullable<decimal> customer_Id)
-        {
-            var product_IdParameter = product_Id.HasValue ?
-                new ObjectParameter("Product_Id", product_Id) :
-                new ObjectParameter("Product_Id", typeof(decimal));
-    
-            var customer_IdParameter = customer_Id.HasValue ?
-                new ObjectParameter("Customer_Id", customer_Id) :
-                new ObjectParameter("Customer_Id", typeof(decimal));
-    
-            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("InsertIntoBucketList", product_IdParameter, customer_IdParameter);
-        }
-    
-        public virtual int PlaceOrder(Nullable<decimal> customer_Id, Nullable<decimal> product_Id, Nullable<int> quantity, Nullable<System.DateTime> delivery_Date, string payment_Mode, string address)
-        {
-            var customer_IdParameter = customer_Id.HasValue ?
-                new ObjectParameter("Customer_Id", customer_Id) :
-                new ObjectParameter("Customer_Id", typeof(decimal));
-    
-            var product_IdParameter = product_Id.HasValue ?
-                new ObjectParameter("Product_Id", product_Id) :
-                new ObjectParameter("Product_Id", typeof(decimal));
-    
-            var quantityParameter = quantity.HasValue ?
-                new ObjectParameter("Quantity", quantity) :
-                new ObjectParameter("Quantity", typeof(int));
-    
-            var delivery_DateParameter = delivery_Date.HasValue ?
-                new ObjectParameter("Delivery_Date", delivery_Date) :
-                new ObjectParameter("Delivery_Date", typeof(System.DateTime));
-    
-            var payment_ModeParameter = payment_Mode != null ?
-                new ObjectParameter("Payment_Mode", payment_Mode) :
-                new ObjectParameter("Payment_Mode", typeof(string));
-    
-            var addressParameter = address != null ?
-                new ObjectParameter("Address", address) :
-                new ObjectParameter("Address", typeof(string));
-    
-            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("PlaceOrder", customer_IdParameter, product_IdParameter, quantityParameter, delivery_DateParameter, payment_ModeParameter, addressParameter);
-        }
     }
 }

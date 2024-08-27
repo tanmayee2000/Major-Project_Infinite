@@ -6,7 +6,7 @@
 //     Manual changes to this file will be overwritten if the code is regenerated.
 // </auto-generated>
 //------------------------------------------------------------------------------
-using System.ComponentModel.DataAnnotations;
+
 namespace ETradingSystem.Models
 {
     using System;
@@ -17,11 +17,8 @@ namespace ETradingSystem.Models
         public int Serial_Number { get; set; }
         public decimal Product_Id { get; set; }
         public decimal Customer_Id { get; set; }
-
-        [Range(0, int.MaxValue, ErrorMessage = "Quantity cannot be greater than available stock.")]
-
         public int Quantity { get; set; }
-
+    
         public virtual Customer Customer { get; set; }
         public virtual Product Product { get; set; }
     }

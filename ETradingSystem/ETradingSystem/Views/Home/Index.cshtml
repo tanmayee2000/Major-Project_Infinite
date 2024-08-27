@@ -1,36 +1,17 @@
 ﻿<!DOCTYPE html>
+
 <html>
+
 <head>
+
     <title>Ekart - Online Shopping Site</title>
+
     <link rel="stylesheet" type="text/css" href="~/Content/styles.css">
+
     <style>
-        /* Add this CSS to make the video full screen and responsive */
-        .video-container {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100vh;
-            overflow: hidden;
-        }
-
-            .video-container video {
-                position: absolute;
-                top: 0;
-                left: 0;
-                width: 100%;
-                height: 100%;
-                object-fit: cover;
-            }
-
-        /* Add this CSS to make the content appear on top of the video */
-        .content {
-            position: relative;
-            z-index: 1;
-            padding: 20px;
-        }
 
         /* Add this CSS to style the search bar */
+
         .search-bar {
             display: flex;
             align-items: center;
@@ -38,7 +19,7 @@
             border: 1px solid #ccc;
             border-radius: 5px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            position: relative; /* Add this to make the search bar a positioning context */
+            position: relative;
         }
 
             .search-bar input[type="text"] {
@@ -62,51 +43,487 @@
                     background-color: #0056b3;
                 }
 
-        /* Add this CSS to style the bucket list button */
-        .bucketlist-button {
-            padding: 10px 20px;
-            background-color: #007bff;
+        body {
+            background-color: #dbe7c9;
+        }
+
+        header {
+            background-color: #50623a;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            text-transform: uppercase;
+            font-family: "Lato", sans-serif;
+            height: 60px;
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        .menu-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .menu-item {
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin: 10px;
+            padding: 10px;
+            width: 220px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            transition: all 1s;
+        }
+
+            .menu-item:hover {
+                transform: scale(1.1);
+            }
+
+            .menu-item h2 {
+                margin-top: 0;
+                font-family: "Lato", sans-serif;
+                font-size: 20px;
+            }
+
+            .menu-item p {
+                margin-bottom: 0;
+                font-family: "Raleway", sans-serif;
+                font-size: 16px;
+                line-height: 30px;
+            }
+
+        h3 {
+            text-align: center;
+            font-family: "Lato", sans-serif;
+            font-size: 40px;
+            margin-top: 30px;
+            letter-spacing: 2px;
+        }
+
+        a {
+            text-decoration: none;
+            padding: 5px 20px;
+            line-height: 30px;
+            font-size: 15px;
+            color: floralwhite;
+            transition: 1s;
+        }
+
+            a:hover {
+                text-decoration: none;
+                font-size: 20px;
+                color: chartreuse;
+            }
+
+        .view-details-btn {
+            background-color: chartreuse;
             color: #fff;
             border: none;
             border-radius: 5px;
             cursor: pointer;
-            position: absolute; /* Add this to position the button absolutely */
-            right: 20px; /* Add this to position the button 20px from the right edge */
-            top: 10px; /* Add this to position the button 10px from the top edge */
+            padding: 10px 20px;
         }
 
-            .bucketlist-button:hover {
+            .view-details-btn:hover {
                 background-color: #0056b3;
             }
+
+        /* Modal Styles */
+
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            padding-top: 100px;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgb(0, 0, 0);
+            background-color: rgba(0, 0, 0, 0.4);
+        }
+
+        .modal-content {
+            background-color: #fefefe;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 80%;
+            max-width: 600px;
+            border-radius: 10px;
+            font-family: 'Lato', sans-serif;
+        }
+
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+            .close:hover,
+            .close:focus {
+                color: black;
+                text-decoration: none;
+                cursor: pointer;
+            }
     </style>
+
 </head>
+
 <body>
-    <div class="video-container">
-        <video autoplay loop muted>
-            <source src="~/Images/welcome.mp4" type="video/mp4">
-        </video>
-    </div>
+
     <div class="content">
+
         <div class="container">
+
+            <br /><br />
+
+            <div class="search-bar">
+
+                @using (Html.BeginForm("Search", "Home", FormMethod.Post))
+
+                {
+
+                    <input type="text" name="searchTerm" placeholder="Search for product">
+
+                    <button type="submit">Search</button>}
+
+            </div>
+
+            <br />
+
             <header>
-                <div class="search-bar">
-                    @using (Html.BeginForm("Search", "Home", FormMethod.Post))
-                    {
-                        <input type="text" name="searchTerm" placeholder="Search for product">
-                        <button type="submit">Search</button>
-                    }
-                    <button class="bucketlist-button" onclick="location.href='@Url.Action("BucketList", "Home")'">Bucket List</button>
-                </div>
-                <p>Welcome to Ekart, your one-stop online shopping destination. Explore our vast collection of products and start shopping today!</p>
+
+                <a href="#shoes">Shoes</a>
+
+                <a href="#shirts">Shirts</a>
+
+                <a href="#watches">Watches</a>
+
+                <a href="#laptops">Laptops</a>
+
             </header>
 
-            <section class="products">
-            </section>
+            <h3 id="shoes">Shoes</h3>
 
-            <section class="products">
-            </section>
+            <div class="menu-container">
+
+                <div class="menu-item">
+
+                    <h2>Nike</h2>
+
+                    <img src="~/Images/nike.jpg" width="200">
+
+                    <p>Comfort and worth.</p>
+
+                    <p>$22.99</p>
+
+                    <button class="view-details-btn" onclick="showDetails('Nike', '$22.99', 'Comfort and worth.')">View Details</button>
+
+                </div>
+
+                <div class="menu-item">
+
+                    <h2>Adidas</h2>
+
+                    <img src="~/Images/Adidas.jpg" width="200">
+
+                    <p>Comfort and worth.</p>
+
+                    <p>$25.49</p>
+
+                    <button class="view-details-btn" onclick="showDetails('Adidas', '$25.49', 'Comfort and worth.')">View Details</button>
+
+                </div>
+
+                <div class="menu-item">
+
+                    <h2>Gucci</h2>
+
+                    <img src="~/Images/Gucci.jpg" width="200">
+
+                    <p>Best Price.</p>
+
+                    <p>$12.55</p>
+
+                    <button class="view-details-btn" onclick="showDetails('Gucci', '$12.55', 'Best Price.')">View Details</button>
+
+                </div>
+
+                <div class="menu-item">
+
+                    <h2>Skechers</h2>
+
+                    <img src="~/Images/Sketchers.jpg" width="200">
+
+                    <p>Hurry Up.Only few left Out.</p>
+
+                    <p>$10.35</p>
+
+                    <button class="view-details-btn" onclick="showDetails('Skechers', '$10.35', 'Hurry Up. Only few left Out.')">View Details</button>
+
+                </div>
+
+            </div>
+
+            <h3 id="shirts">Shirts</h3>
+
+            <div class="menu-container">
+
+                <div class="menu-item">
+
+                    <h2>Allen Solly</h2>
+
+                    <img src="~/Images/Allen.jpg" width="200">
+
+                    <p>Comfort and worth.</p>
+
+                    <p>$12.99</p>
+
+                    <button class="view-details-btn" onclick="showDetails('Allen Solly', '$12.99', 'Comfort and worth.')">View Details</button>
+
+                </div>
+
+                <div class="menu-item">
+
+                    <h2>U.S.Polo</h2>
+
+                    <img src="~/Images/polo.jpg" width="200">
+
+                    <p>Limited Price Deal</p>
+
+                    <p>$9.56</p>
+
+                    <button class="view-details-btn" onclick="showDetails('U.S. Polo', '$9.56', 'Limited Price Deal')">View Details</button>
+
+                </div>
+
+                <div class="menu-item">
+
+                    <h2>NetPlay</h2>
+
+                    <img src="~/Images/netplay.jpg" width="200">
+
+                    <p>Selling Fast!!</p>
+
+                    <p>$15.47</p>
+
+                    <button class="view-details-btn" onclick="showDetails('NetPlay', '$15.47', 'Selling Fast!!')">View Details</button>
+
+                </div>
+
+                <div class="menu-item">
+
+                    <h2>Roadster</h2>
+
+                    <img src="~/Images/road.jpg" width="200">
+
+                    <p>Best Seller.</p>
+
+                    <p>$11.59</p>
+
+                    <button class="view-details-btn" onclick="showDetails('Roadster', '$11.59', 'Best Seller.')">View Details</button>
+
+                </div>
+
+            </div>
+
+            <h3 id="watches">Watches</h3>
+
+            <div class="menu-container">
+
+                <div class="menu-item">
+
+                    <h2>Titan</h2>
+
+                    <img src="~/Images/Titan.jpg" width="200">
+
+                    <p>Best Price.</p>
+
+                    <p>$12.99</p>
+
+                    <button class="view-details-btn" onclick="showDetails('Titan', '$12.99', 'Best Price.')">View Details</button>
+
+                </div>
+
+                <div class="menu-item">
+
+                    <h2>Casio</h2>
+
+                    <img src="~/Images/Casio.jpg" width="200">
+
+                    <p>Best Seller!</p>
+
+                    <p>$18.99</p>
+
+                    <button class="view-details-btn" onclick="showDetails('Casio', '$18.99', 'Best Seller!')">View Details</button>
+
+                </div>
+
+                <div class="menu-item">
+
+                    <h2>Rolex</h2>
+
+                    <img src="~/Images/rolex.jpg" width="200">
+
+                    <p>Limited Time Deal!</p>
+
+                    <p>$27.99</p>
+
+                    <button class="view-details-btn" onclick="showDetails('Rolex', '$27.99', 'Limited Time Deal!')">View Details</button>
+
+                </div>
+
+                <div class="menu-item">
+
+                    <h2>Fastrack</h2>
+
+                    <img src="~/Images/fastrack.jpg" width="200">
+
+                    <p>Few Left!</p>
+
+                    <p>$13.89</p>
+
+                    <button class="view-details-btn" onclick="showDetails('Fastrack', '$13.89', 'Few Left!')">View Details</button>
+
+                </div>
+
+            </div>
+
+            <h3 id="laptops">Laptops</h3>
+
+            <div class="menu-container">
+
+                <div class="menu-item">
+
+                    <h2>HP</h2>
+
+                    <img src="~/Images/hp.png" width="200">
+
+                    <p>Best Seller!</p>
+
+                    <p>$35.99</p>
+
+                    <button class="view-details-btn" onclick="showDetails('HP', '$35.99', 'Best Seller!')">View Details</button>
+
+                </div>
+                <div class="menu-item">
+
+                    <h2>Apple</h2>
+
+                    <img src="~/Images/apple.png" width="200">
+
+                    <p>Best Seller!</p>
+
+                    <p>$35.99</p>
+
+                    <button class="view-details-btn" onclick="showDetails('HP', '$35.99', 'Best Seller!')">View Details</button>
+
+                </div>
+                <div class="menu-item">
+
+                    <h2>Dell</h2>
+
+                    <img src="~/Images/dell.jpg" width="200">
+
+                    <p>Best Seller!</p>
+
+                    <p>$35.99</p>
+
+                    <button class="view-details-btn" onclick="showDetails('HP', '$35.99', 'Best Seller!')">View Details</button>
+
+                </div>
+
+                <div class="menu-item">
+
+                    <h2>Toshiba</h2>
+
+                    <img src="~/Images/toshiba.png" width="200">
+
+                    <p>Extra Battery.</p>
+
+                    <p>$39.72</p>
+
+                    <button class="view-details-btn" onclick="showDetails('Toshiba', '$39.72', 'Extra Battery.')">View Details</button>
+
+                </div>
+
+            </div>
 
         </div>
+
     </div>
+
+    <!-- The Modal -->
+
+    <div id="myModal" class="modal">
+
+        <div class="modal-content">
+
+            <span class="close">&times;</span>
+
+            <h2 id="modal-title"></h2>
+
+            <p id="modal-price"></p>
+
+            <p id="modal-description"></p>
+
+        </div>
+
+    </div>
+
+    <script>
+
+        // Function to display the modal with product details
+
+        function showDetails(title, price, description) {
+
+            document.getElementById('modal-title').innerText = title;
+
+            document.getElementById('modal-price').innerText = "Price: " + price;
+
+            document.getElementById('modal-description').innerText = description;
+
+            document.getElementById('myModal').style.display = "block";
+
+        }
+
+        // Get the modal element
+
+        var modal = document.getElementById("myModal");
+
+        // Get the <span> element that closes the modal
+
+        var span = document.getElementsByClassName("close")[0];
+
+        // When the user clicks on <span> (x), close the modal
+
+        span.onclick = function () {
+
+            modal.style.display = "none";
+
+        }
+
+        // When the user clicks anywhere outside of the modal, close it
+
+        window.onclick = function (event) {
+
+            if (event.target == modal) {
+
+                modal.style.display = "none";
+
+            }
+
+        }
+
+    </script>
+
 </body>
+
 </html>
+

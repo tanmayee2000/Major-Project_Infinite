@@ -8,11 +8,11 @@ namespace ETradingSystem.Controllers.E_Trading.Admin
 {
     public class AdminValidationController : Controller
     {
-        private readonly E_TradingDBEntities5 db; 
+        private readonly E_TradingDBEntities7 db; 
 
         public AdminValidationController()
         {
-            db = new E_TradingDBEntities5(); 
+            db = new E_TradingDBEntities7(); 
         }
         // GET: Admin
         public ActionResult Login()

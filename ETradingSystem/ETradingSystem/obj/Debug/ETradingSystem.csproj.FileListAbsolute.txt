@@ -834,3 +834,323 @@ D:\E-Trading Project\ETradingSystem\ETradingSystem\obj\Debug\ETradingSystem.cspr
 D:\E-Trading Project\ETradingSystem\ETradingSystem\obj\Debug\ETrading.DC8366A0.Up2Date
 D:\E-Trading Project\ETradingSystem\ETradingSystem\obj\Debug\ETradingSystem.dll
 D:\E-Trading Project\ETradingSystem\ETradingSystem\obj\Debug\ETradingSystem.pdb
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\ETradingSystem.dll.config
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\ETradingSystem.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\ETradingSystem.pdb
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\csc.exe
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\csc.exe.config
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\csc.rsp
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\csi.exe
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\csi.exe.config
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\csi.rsp
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.AppContext.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Console.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\vbc.exe
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\vbc.exe.config
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\vbc.rsp
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Antlr3.Runtime.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\EntityFramework.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.Options.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Newtonsoft.Json.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Buffers.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.ComponentModel.Annotations.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Memory.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Numerics.Vectors.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Text.Encodings.Web.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Web.Helpers.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Web.Http.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Web.Http.WebHost.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Web.Mvc.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Web.Optimization.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Web.Razor.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Web.WebPages.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\WebGrease.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\EntityFramework.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.Options.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Buffers.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Memory.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Numerics.Vectors.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Text.Encodings.Web.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Newtonsoft.Json.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Net.Http.Formatting.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Web.Helpers.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Web.Http.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Web.Mvc.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Web.Optimization.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Web.Razor.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Web.WebPages.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Antlr3.Runtime.pdb
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\obj\Debug\ETradingSystem.csproj.AssemblyReference.cache
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\obj\Debug\ETradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\obj\Debug\ETrading.DC8366A0.Up2Date
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\obj\Debug\ETradingSystem.dll
+C:\Users\shivarajp\Downloads\Final\ETradingSystem\ETradingSystem\obj\Debug\ETradingSystem.pdb
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\ETradingSystem.dll.config
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\ETradingSystem.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\ETradingSystem.pdb
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\csc.exe
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\csc.exe.config
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\csc.rsp
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\csi.exe
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\csi.exe.config
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\csi.rsp
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.AppContext.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Console.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\vbc.exe
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\vbc.exe.config
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\vbc.rsp
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Antlr3.Runtime.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\EntityFramework.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.Options.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Newtonsoft.Json.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Buffers.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.ComponentModel.Annotations.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Memory.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Numerics.Vectors.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Text.Encodings.Web.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Web.Helpers.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Web.Http.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Web.Http.WebHost.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Web.Mvc.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Web.Optimization.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Web.Razor.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Web.WebPages.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\WebGrease.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\EntityFramework.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.Options.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Buffers.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Memory.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Numerics.Vectors.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Text.Encodings.Web.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Newtonsoft.Json.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Net.Http.Formatting.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Web.Helpers.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Web.Http.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Web.Mvc.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Web.Optimization.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Web.Razor.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Web.WebPages.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Antlr3.Runtime.pdb
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\obj\Debug\ETradingSystem.csproj.AssemblyReference.cache
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\obj\Debug\ETradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\obj\Debug\ETradingSystem.csproj.CopyComplete
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\obj\Debug\ETradingSystem.dll
+C:\Users\raghured\Downloads\Final (2)\Final\ETradingSystem\ETradingSystem\obj\Debug\ETradingSystem.pdb

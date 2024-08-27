@@ -12,7 +12,7 @@ namespace ETradingSystem.Controllers.E_Trading.VendorFun
 {
     public class ProductsController : Controller
     {
-        private E_TradingDBEntities5 db = new E_TradingDBEntities5();
+        private E_TradingDBEntities7 db = new E_TradingDBEntities7();
         
         public ActionResult Index(decimal? id)
         {
@@ -52,7 +52,7 @@ namespace ETradingSystem.Controllers.E_Trading.VendorFun
             {
                 db.Products.Add(product);
                 db.SaveChanges();
-                return RedirectToAction("Index");
+                return RedirectToAction("Index", new { id=product.Vendor_Id});
             }
 
             ViewBag.Vendor_Id = new SelectList(db.Vendors, "Vendor_Id", "Vendor_Name", product.Vendor_Id);
@@ -82,7 +82,7 @@ namespace ETradingSystem.Controllers.E_Trading.VendorFun
             {
                 db.Entry(product).State = EntityState.Modified;
                 db.SaveChanges();
-                return RedirectToAction("Index");
+                return RedirectToAction("Index", new {id =product.Vendor_Id});
             }
             ViewBag.Vendor_Id = new SelectList(db.Vendors, "Vendor_Id", "Vendor_Name", product.Vendor_Id);
             return View(product);
@@ -109,7 +109,8 @@ namespace ETradingSystem.Controllers.E_Trading.VendorFun
             Product product = db.Products.Find(id);
             db.Products.Remove(product);
             db.SaveChanges();
-            return RedirectToAction("Index");
+
+            return RedirectToAction("Index", new { id = product.Vendor_Id });
         }
 
         protected override void Dispose(bool disposing)
